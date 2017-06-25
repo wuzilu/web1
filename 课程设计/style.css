@@ -1,0 +1,147 @@
+*{
+    font-family: "宋体";
+}
+body{
+	margin: auto;
+	background-color:ffefd5;
+}
+a{
+	text-decoration: none;
+}
+
+span{
+	float: right;
+}
+a:hover{
+	color: orange;
+}
+#header{
+	text-align: center;
+}
+#daohang{
+	margin: auto;
+    width: 958px;
+	hight: 28px;
+	background-color: orange;
+	text-align: center;
+}
+#daohang a{
+    color: #fff;
+	font-size: 18px;
+	font-weight: bolder;
+}
+.a{
+	padding-left: 280px;
+}
+#content_top{
+	margin: auto;
+	width: 958px;
+	height: 278px;
+	padding-top: 200px;
+}
+.content_left{
+	width: 185px;
+	hight: 200px;
+    padding-left: 300px;
+	float: left;
+}
+.two{
+	width: 200px;
+	text-align: center;
+	font-weight: bolder;
+}
+.content_center{
+	width: 420px;
+	height: 200px;
+	float: left;
+	border: 1px bule soild;
+	background-image: url(../images/biye.jpg);
+}
+.content_right{
+	width: 300px;
+	height: 210px;
+	float: left;
+	padding-left: 1px;
+}
+#content_two{
+	width: 958px;
+	height:300px;
+	padding-top: 100px;
+}
+.content_two_left{
+	width: 200px;
+	height: 100px;
+	padding-left: 250px;
+}
+.content_two_right{
+	width: 900px;
+	padding-left: 480px;
+}
+.b{
+	float: left;
+}
+.c{
+	float: left;
+}
+.d{
+	float: left;
+}
+.shipin{
+	width:1150px;
+}
+.shipin img{
+	width:180px;
+	height:140px;
+    margin-top: 18px;
+    margin-left: 25px;
+}
+.four{
+	float: left;
+	padding-left: 500px;
+}
+.five{
+	float: left;
+}
+.six{
+	float: left;
+}
+.seven{
+	float: left;
+}
+.eight{
+	text-align: center;
+}
+.e{
+	width:500px;
+    padding-top: 20px;
+	padding-left: 750px;
+}
+.h{
+	width: 500px;
+	float: left;
+	padding-left: 250px;
+}
+.h ul {
+	list-style-type: none;
+}
+.e ul {
+	list-style-type: none;
+}
+.nine{
+	color: orange;
+	font-weight: bolder;
+}
+.f{
+	width: 955px;
+	border: 2px solid orange;
+}
+.ten{
+	margin: auto;
+}
+.g{
+	padding-left: 300px;
+}
+hr{
+	width: 955px;
+	float: left;
+}

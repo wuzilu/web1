@@ -1,0 +1,102 @@
+*{
+    font-family: "宋体";
+}
+body{
+	margin: auto;
+	background-color:ffefd5;
+}
+a{
+	text-decoration: none;
+}
+
+span{
+	float: right;
+}
+a:hover{
+	color: orange;
+}
+#header{
+	text-align: center;
+}
+#daohang{
+	margin: auto;
+    width: 958px;
+	hight: 28px;
+	background-color: orange;
+	text-align: center;
+}
+#daohang a{
+    color: #fff;
+	font-size: 18px;
+	font-weight: bolder;
+}
+#content_left{
+	width: 772px;
+	height: 985px;
+    float: left;
+	padding-left: 285px;
+}
+.one{
+	width: 752px;
+	height: 200px;
+	padding-top: 10px;
+	border:1px solid #c0c0c0;
+}
+.a{
+	padding-left: 5px;
+	width: 80px;
+	font-weight: bolder;
+
+}
+.b{
+	float: left;
+	width: 290px;
+	height: 166.4px;
+	padding-left: 6px;
+
+}
+.b img{
+	padding-left: 1px;
+	padding-top: 2px;
+}
+.c{
+	float: left;
+	width: 430px;
+	height: 190px;
+	margin: auto;
+	line-height: 0.5em;
+}
+.two{
+	width: 752px;
+	height: 200px;
+	padding-top: 10px;
+	border:1px solid #c0c0c0;
+}
+#content{
+	width:1300px;
+}
+#content_right{
+	float: left;
+	width: 200px;
+}
+.three{
+	border:1px solid #c0c0c0;
+
+}
+.five{
+	border:1px solid #c0c0c0;
+}
+p{
+	font-size: 13px;
+}
+.six{
+	font-size: 14px;
+	font-weight: bolder;
+}
+.five img{
+	padding-left: 8px;
+}
+.eight{
+	float: left;
+	padding-bottom: 20px;
+}

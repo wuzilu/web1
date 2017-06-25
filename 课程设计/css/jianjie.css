@@ -1,0 +1,86 @@
+*{
+    font-family: "宋体";
+}
+body{
+	margin: auto;
+	background-color:ffefd5;
+}
+a{
+	text-decoration: none;
+}
+
+span{
+	float: right;
+}
+a:hover{
+	color: orange;
+}
+#header{
+	text-align: center;
+}
+#daohang{
+	margin: auto;
+    width: 958px;
+	hight: 28px;
+	background-color: orange;
+	text-align: center;
+}
+#daohang a{
+    color: #fff;
+	font-size: 18px;
+	font-weight: bolder;
+}#content{
+	width: 1000px;
+	height: 2050px;
+	margin: auto;
+}
+.one{
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+.two{
+	padding-left: 90px;
+}
+.breadcrumbs{
+	padding-left: 20px;
+}
+.three{
+	font-weight: bolder;
+}
+.four{
+	float: left;
+	padding-left: 30px;
+}
+.five{
+	float: left;
+}
+.six{
+	font-size: 12px;
+}
+#pingjia{
+	width: 1000px;
+    height: 400px;
+}
+.pingjia_left{
+	padding-left: 20px;
+	width:420px;
+	float: left;
+	border:1.5px solid #c0c0c0;
+}
+.pingjia_right{
+	padding-left: 5px;
+	width: 500px;
+	height: 200px;
+	float: left;
+
+}
+.seven{
+	color: orange;
+	font-weight: bolder;
+}
+.eight{
+	border:1px solid #c0c0c0;
+	line-height: 0.8em;
+}
